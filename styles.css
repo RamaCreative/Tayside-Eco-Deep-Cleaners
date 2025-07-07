@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+header {
+  color: black;
+  height: 70px;
+  width: 100%;
+  display: flex;
+  font-family: Poppins;
+  /* justify-content: center; */
+  align-items: center;
+  /* justify-content: space-around; */
+  background-color: white;
+}
+.headerlogo {
+  margin-left: 150px;
+  height: 50px;
+  width: 50px;
+}
+.logotype {
+  margin-right: 530px;
+}
+ul {
+  gap: 50px;
+  display: flex;
+  align-self: right;
+  margin-left: -420px;
+  list-style: none;
+}
+.sect-1 {
+  font-family: Poppins;
+  /* background-image: url(185.jpg); */
+  background-blend-mode: darken;
+  /* background-color: rgba(0, 0, 0, 0.226); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  align-content: center;
+  color: white;
+  background-position: center;
+}
+.section1-heading {
+  margin-left: 150px;
+}
